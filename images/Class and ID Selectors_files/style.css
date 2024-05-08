@@ -1,0 +1,26 @@
+.odd{
+
+background-color: lightcoral;
+font-family: 'Verdana', 'DejaVu sans', 'sans-serif';
+
+}
+
+.odd.cool{
+
+background-color: lightcoral;
+font-size: 24px;
+
+}
+
+#num2{
+
+    color: blue;
+    font-size: 36px;
+}
+
+#num4{
+
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}

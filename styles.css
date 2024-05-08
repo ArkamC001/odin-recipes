@@ -1,0 +1,50 @@
+.flex-container{
+
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+border-color: red;
+margin: 0 300px;
+
+}
+
+.recipe
+{
+    flex: 1;
+    border-width: 5px;
+    text-align: center;
+    border-style: solid;
+    border-width: 8px red;
+    padding: 15px;
+    background-color: #e9f17d;
+    font-size: 20px;  
+    margin: 5px;
+    color: white;
+}
+
+
+#header{
+
+    margin: auto;
+    text-align: center;
+    border-style: solid; 
+    width: 33%;
+    color:white;
+    background-color: black;
+    border-radius: 40px;
+    padding: 10px;
+   
+}
+
+a{
+
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#mainDiv{
+
+    margin: 10px;
+    
+}
